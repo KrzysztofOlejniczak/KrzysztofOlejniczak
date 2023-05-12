@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KrzysztofOlejniczak
 - 👀 I’m interested in ... new technologies
-- 🌱 I’m currently learning ... html/css/js
+- 🌱 I’m currently learning ... html/css/js/react/node.js
 - 💞️ I’m looking to collaborate on ... some interesting projects
 - 📫 How to reach me ... krzysztof.olejniczak@gmail.com
 
